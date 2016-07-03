@@ -1,2 +1,0 @@
-kptmname
-jgmcontent

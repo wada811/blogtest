@@ -1,1 +1,2 @@
-タイトル name¥ncontent ほげー！
+タイトル namecontent ほげー！
+タイトル namecontent ほげー！

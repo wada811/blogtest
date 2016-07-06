@@ -1,0 +1,2 @@
+name日本語
+contentでも大丈夫

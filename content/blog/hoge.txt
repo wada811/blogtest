@@ -1,2 +1,0 @@
-hoge name
-hoge content

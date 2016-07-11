@@ -1,2 +1,0 @@
-abc name
-content abc
